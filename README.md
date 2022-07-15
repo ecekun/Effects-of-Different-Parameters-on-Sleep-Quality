@@ -1,0 +1,3 @@
+# Effects-of-Different-Parameters-on-Sleep-Quality
+
+In healthcare, sleep quality is undoubtedly an important factor. The quality of our sleep directly affects our daily life, hence there is lots of work in this topic which was done by both physicians and data scientists. Considering the importance of the field, we decided to work on sleep monitoring. Our main goal is to analyze the effect of different parameters on sleep quality. We examine the effects of different diseases, problems, medications, and gender on the sleep quality. We used sleep stages to understand the sleep quality of the patients.
